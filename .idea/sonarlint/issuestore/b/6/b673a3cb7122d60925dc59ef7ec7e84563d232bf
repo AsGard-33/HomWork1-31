@@ -1,0 +1,28 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ»¯ç
+^
+java:S1854"CRemove this useless assignment to local variable "numberIntIndex3".(ùŒ¨­şÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "numberIntIndex2".(Ë•ÒÔüÿÿÿÿ
+X
+java:S1854"CRemove this useless assignment to local variable "numberIntIndex1".(¢¯F
+Y
+java:S1854"CRemove this useless assignment to local variable "numberIntIndex0".(¡•ò´
+A
+java:S1481"+Remove this unused "result" local variable.(ˆ‡İâ
+5
+java:S2153"Remove the boxing to "Integer".(¡•ò´
+J
+java:S1481"4Remove this unused "numberIntIndex0" local variable.(¡•ò´
+4
+java:S2153"Remove the boxing to "Integer".(¢¯F
+I
+java:S1481"4Remove this unused "numberIntIndex1" local variable.(¢¯F
+:
+java:S2153"Remove the boxing to "Integer".(Ë•ÒÔüÿÿÿÿ
+O
+java:S1481"4Remove this unused "numberIntIndex2" local variable.(Ë•ÒÔüÿÿÿÿ
+:
+java:S2153"Remove the boxing to "Integer".(ùŒ¨­şÿÿÿÿ
+O
+java:S1481"4Remove this unused "numberIntIndex3" local variable.(ùŒ¨­şÿÿÿÿ

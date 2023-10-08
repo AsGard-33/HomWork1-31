@@ -1,0 +1,9 @@
+
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ì»¾úÿÿÿÿ
+X
+java:S1854	"=Remove this useless assignment to local variable "dayOfWeek".(è¯êçùÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "dayOfWeek".(œé‡ª
+I
+java:S1481".Remove this unused "dayOfWeek" local variable.(ÁÚÈ½şÿÿÿÿ

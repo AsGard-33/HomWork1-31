@@ -1,0 +1,8 @@
+
+i
+java:S1104
+"SMake dueDate a static final constant or non-public and provide accessors if needed.(ä¡‚œ
+z
+java:S41659"eRemove this useless assignment; "dueDate" already holds the assigned value along all execution paths.(È½Òd
+D
+java:S16569"/Remove or correct this useless self-assignment.(È½Òd
